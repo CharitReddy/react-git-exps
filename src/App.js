@@ -18,6 +18,11 @@ function App() {
         >
           Learn React
         </a>
+
+        <a  className="Hook-link"
+        href="https://reactjs.org/docs/hooks-intro.html" target="_blank" rel="noopener noreferrer">
+          Learn React Hooks
+        </a>
       </header>
     </div>
   );
